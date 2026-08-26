@@ -1,6 +1,200 @@
 [
-{"name":"Atelier PF Les Toitures de Saint-Tropez","q":"Atelier PF Les Toitures de Saint-Tropez","target":"atelier pf","ll":"43.267,6.640","kw":"couvreur saint tropez","city":"Saint-Tropez","link":"https://maps.app.goo.gl/eshouz8WLQwgS9qk9","obj":20},
-{"name":"Toiture Rocbaron Couvreur","q":"Toiture Rocbaron Couvreur","target":"toiture rocbaron","ll":"43.308,6.083","kw":"couvreur rocbaron","city":"Rocbaron","link":"https://maps.app.goo.gl/hunZVv8QMKF6aAcz5","obj":20},
-{"name":"Couvreur Brignoles Expertises","q":"Couvreur Brignoles Expertises","target":"brignoles expertises","ll":"43.406,6.062","kw":"couvreur brignoles","city":"Brignoles","link":"https://maps.app.goo.gl/ENbtf9pGypR27SfeA","obj":20},
-{"name":"JD Couvreur","q":"JD Couvreur Var","target":"jd couvreur","ll":"43.45,6.20","kw":"couvreur var","city":"Var","link":"https://maps.app.goo.gl/qKxxSoqczXtMLmk77","obj":15}
+{
+"name": "Couvreur Qualité Sciez",
+"q": "Couvreur Qualité Sciez",
+"target": "couvreur qualité",
+"ll": "46.332,6.383",
+"kw": "couvreur sciez",
+"city": "Sciez",
+"link": "https://maps.app.goo.gl/W8rV5EKJv6cgFaNu5",
+"obj": 20,
+"region": "Haute-Savoie"
+},
+{
+"name": "Thonon Couverture",
+"q": "Thonon Couverture couvreur",
+"target": "thonon couverture",
+"ll": "46.371,6.479",
+"kw": "couvreur thonon les bains",
+"city": "Thonon-les-Bains",
+"link": "https://maps.app.goo.gl/gB6g31f4rV8MPzR56",
+"obj": 20,
+"region": "Haute-Savoie"
+},
+{
+"name": "Atelier Maxime Père & Fils",
+"q": "Atelier Maxime Père et Fils Couvreur Thonon-les-Bains",
+"target": "atelier maxime",
+"ll": "46.371,6.479",
+"kw": "couvreur thonon les bains",
+"city": "Thonon-les-Bains",
+"link": "https://maps.app.goo.gl/FrjwecFjMsDJGpP79",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "AD Couvreur",
+"q": "AD Couvreur saint blaise",
+"target": "ad couvreur",
+"ll": "46.066,6.078",
+"kw": "couvreur saint blaise",
+"city": "Saint-Blaise",
+"link": "https://maps.app.goo.gl/PU2wT2nrpNM8st8e6",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Pro couvreur saint eusèbe",
+"q": "Pro couvreur saint eusèbe",
+"target": "pro couvreur",
+"ll": "45.955,5.985",
+"kw": "couvreur saint eusebe",
+"city": "Saint-Eusèbe",
+"link": "https://maps.app.goo.gl/6tCacLqDwmfKsEYu9",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Chris toiture 74",
+"q": "Chris toiture 74",
+"target": "chris toiture",
+"ll": "46.15,6.35",
+"kw": "couvreur haute savoie",
+"city": "Haute-Savoie",
+"link": "https://maps.app.goo.gl/wNUyEQMhhLU7Y2EM9",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Couvreur st félix pro fuite",
+"q": "Couvreur st félix pro fuite",
+"target": "pro fuite",
+"ll": "45.844,5.978",
+"kw": "couvreur saint felix",
+"city": "Saint-Félix",
+"link": "https://maps.app.goo.gl/NsjHcZC3tDFUhcZX6",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Couvreur PR st ferreol",
+"q": "Couvreur PR st ferreol",
+"target": "pr st ferreol",
+"ll": "45.760,6.227",
+"kw": "couvreur saint ferreol",
+"city": "Saint-Ferréol",
+"link": "https://maps.app.goo.gl/KvnL7umtw44frbeX8",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Couvreur st Gervais les bains",
+"q": "Couvreur st Gervais les bains",
+"target": "couvreur st gervais",
+"ll": "45.892,6.712",
+"kw": "couvreur saint gervais les bains",
+"city": "Saint-Gervais",
+"link": "https://maps.app.goo.gl/CM1cdoYbjXJ94ga7A",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Couvreur st gingolph",
+"q": "Couvreur st gingolph",
+"target": "couvreur st gingolph",
+"ll": "46.392,6.804",
+"kw": "couvreur saint gingolph",
+"city": "Saint-Gingolph",
+"link": "https://maps.app.goo.gl/ADFZZpC8Cm5fRcQh7",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Ets Maxime Couvreur",
+"q": "Ets Maxime Couvreur Recherche de Fuites Zingueur",
+"target": "ets maxime",
+"ll": "46.371,6.479",
+"kw": "recherche fuite toiture haute savoie",
+"city": "Haute-Savoie",
+"link": "https://maps.app.goo.gl/pvH2xUk12DaJUs6cA",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "I.D. Couverture 74 Couvreurs",
+"q": "I.D. Couverture 74 Couvreurs",
+"target": "i.d. couverture",
+"ll": "46.15,6.35",
+"kw": "couvreur haute savoie",
+"city": "Haute-Savoie",
+"link": "https://maps.app.goo.gl/nN5uydDHwRFjox1a8",
+"obj": 5,
+"region": "Haute-Savoie"
+},
+{
+"name": "Toit de Qualité",
+"q": "Toit de Qualité Couvreurs et Zingueurs Evian",
+"target": "toit de qualite",
+"ll": "46.401,6.588",
+"kw": "couvreur evian les bains",
+"city": "Évian",
+"link": "https://maps.app.goo.gl/inQMYLVB34zKd5XW9",
+"obj": 5,
+"region": "Haute-Savoie"
+},
+{
+"name": "MG Le Bon Couvreur",
+"q": "MG Le Bon Couvreur",
+"target": "le bon couvreur",
+"ll": "46.15,6.35",
+"kw": "couvreur haute savoie",
+"city": "Haute-Savoie",
+"link": "https://maps.app.goo.gl/c567da2VKCAK6xei6",
+"obj": 10,
+"region": "Haute-Savoie"
+},
+{
+"name": "Atelier PF Les Toitures de Saint-Tropez",
+"q": "Atelier PF Les Toitures de Saint-Tropez",
+"target": "atelier pf",
+"ll": "43.267,6.640",
+"kw": "couvreur saint tropez",
+"city": "Saint-Tropez",
+"link": "https://maps.app.goo.gl/eshouz8WLQwgS9qk9",
+"obj": 20,
+"region": "Var"
+},
+{
+"name": "Toiture Rocbaron Couvreur",
+"q": "Toiture Rocbaron Couvreur",
+"target": "toiture rocbaron",
+"ll": "43.308,6.083",
+"kw": "couvreur rocbaron",
+"city": "Rocbaron",
+"link": "https://maps.app.goo.gl/hunZVv8QMKF6aAcz5",
+"obj": 20,
+"region": "Var"
+},
+{
+"name": "Couvreur Brignoles Expertises",
+"q": "Couvreur Brignoles Expertises",
+"target": "brignoles expertises",
+"ll": "43.406,6.062",
+"kw": "couvreur brignoles",
+"city": "Brignoles",
+"link": "https://maps.app.goo.gl/ENbtf9pGypR27SfeA",
+"obj": 20,
+"region": "Var"
+},
+{
+"name": "JD Couvreur",
+"q": "JD Couvreur Var",
+"target": "jd couvreur",
+"ll": "43.45,6.20",
+"kw": "couvreur var",
+"city": "Var",
+"link": "https://maps.app.goo.gl/qKxxSoqczXtMLmk77",
+"obj": 15,
+"region": "Var"
+}
 ]

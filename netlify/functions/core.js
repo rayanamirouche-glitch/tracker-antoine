@@ -17,7 +17,7 @@ async function resolveIds() {
   await Promise.all(FICHES.map(async f => {
     if (ids[f.name]) return;
     const t = normName(f.target);
-    const queries = [f.q + ' ' + REGION, f.q, f.name];
+    const queries = [f.q + ' ' + (f.region || REGION), f.q, f.name];
     for (const q of queries) {
       try {
         const u = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query=' + encodeURIComponent(q) + '&location=' + f.ll + '&radius=15000&key=' + K;
