@@ -9,7 +9,12 @@ const to = (p, ms) => Promise.race([p, new Promise((_, rej) => setTimeout(() => 
 async function getJSON(k, d) { try { const v = await store().get(k, { type: 'json' }); return (v === null || v === undefined) ? d : v } catch (e) { return d } }
 async function setJSON(k, v) { await store().setJSON(k, v) }
 
-const normName = s => (s || '').toLowerCase().replace(/[\u2018\u2019\u02BC\u0060\u00B4]/g, "'").normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+const normName = s => (s || '').toLowerCase()
+  .replace(/[\u2018\u2019\u02BC\u0060\u00B4]/g, "'")
+  .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+  .replace(/[.\-]/g, ' ')
+  .replace(/\bsaint\b/g, 'st')
+  .replace(/\s+/g, ' ').trim();
 
 async function resolveIds() {
   const K = process.env.PLACES_API_KEY;
@@ -26,6 +31,17 @@ async function resolveIds() {
         const hit = results.find(r => r.name && normName(r.name).includes(t));
         if (hit && hit.place_id) { ids[f.name] = hit.place_id; break; }
       } catch (e) {}
+    }
+    if (!ids[f.name]) {
+      for (const q of [f.name, f.q]) {
+        try {
+          const u = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=' + encodeURIComponent(q) + '&inputtype=textquery&fields=place_id,name&locationbias=' + encodeURIComponent('circle:25000@' + f.ll) + '&key=' + K;
+          const j = await to(fetch(u).then(r => r.json()), 6500);
+          const cands = (j && j.candidates) || [];
+          const hit = cands.find(r => r.name && normName(r.name).includes(t));
+          if (hit && hit.place_id) { ids[f.name] = hit.place_id; break; }
+        } catch (e) {}
+      }
     }
   }));
   await setJSON('ids', ids);
