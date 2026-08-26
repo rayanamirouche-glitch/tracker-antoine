@@ -6,3 +6,7 @@
 
 [functions."snapshot_rank"]
   schedule = "50 5 * * 1,4"
+
+[functions."snapshot_rank_b"]
+  schedule = "53 5 * * 1,4"
+
