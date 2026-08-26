@@ -87,16 +87,24 @@ async function snapRank(start, baseUrl) {
   start = start || 0;
   const wave = FICHES.slice(start, start + WAVE);
   const snap = {};
+  const ids = await getJSON('ids', {});
+  let idsChanged = false;
   await Promise.all(wave.map(async f => {
     try {
       const u = 'https://serpapi.com/search.json?engine=google_maps&q=' + encodeURIComponent(f.kw) + '&ll=' + encodeURIComponent('@' + f.ll + ',14z') + '&hl=fr&api_key=' + K;
       const j = await to(fetch(u).then(r => r.json()), 8500);
       const rs = (j && j.local_results) || [];
       const t = normName(f.target); let pos = null;
-      rs.forEach((r, i) => { if (pos === null && r.title && normName(r.title).includes(t)) pos = i + 1; });
+      rs.forEach((r, i) => {
+        if (pos === null && r.title && normName(r.title).includes(t)) {
+          pos = i + 1;
+          if (!ids[f.name] && r.place_id) { ids[f.name] = r.place_id; idsChanged = true; }
+        }
+      });
       snap[f.name] = pos;
     } catch (e) {}
   }));
+  if (idsChanged) await setJSON('ids', ids);
   await setJSON('rankbatch/' + today() + '/' + start, snap);
   if (start === 0) await setJSON('rankMeta', { last: new Date().toISOString() });
   if (start + WAVE < FICHES.length && baseUrl) {
