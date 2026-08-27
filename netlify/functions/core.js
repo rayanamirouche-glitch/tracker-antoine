@@ -16,6 +16,18 @@ const normName = s => (s || '').toLowerCase()
   .replace(/\bsaint\b/g, 'st')
   .replace(/\s+/g, ' ').trim();
 
+
+function pickMatch(list, getName, t) {
+  let exact = null, incl = null, exactIdx = -1, inclIdx = -1;
+  list.forEach((r, i) => {
+    const n = normName(getName(r) || '');
+    if (!n) return;
+    if (exact === null && n === t) { exact = r; exactIdx = i; }
+    if (incl === null && n.includes(t)) { incl = r; inclIdx = i; }
+  });
+  return exact ? { hit: exact, idx: exactIdx } : (incl ? { hit: incl, idx: inclIdx } : null);
+}
+
 async function resolveIds() {
   const K = process.env.PLACES_API_KEY;
   const ids = await getJSON('ids', {});
@@ -28,8 +40,8 @@ async function resolveIds() {
         const u = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query=' + encodeURIComponent(q) + '&location=' + f.ll + '&radius=15000&key=' + K;
         const j = await to(fetch(u).then(r => r.json()), 6500);
         const results = (j && j.results) || [];
-        const hit = results.find(r => r.name && normName(r.name).includes(t));
-        if (hit && hit.place_id) { ids[f.name] = hit.place_id; break; }
+        const m = pickMatch(results, r => r.name, t);
+        if (m && m.hit.place_id) { ids[f.name] = m.hit.place_id; break; }
       } catch (e) {}
     }
     if (!ids[f.name]) {
@@ -38,8 +50,8 @@ async function resolveIds() {
           const u = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=' + encodeURIComponent(q) + '&inputtype=textquery&fields=place_id,name&locationbias=' + encodeURIComponent('circle:25000@' + f.ll) + '&key=' + K;
           const j = await to(fetch(u).then(r => r.json()), 6500);
           const cands = (j && j.candidates) || [];
-          const hit = cands.find(r => r.name && normName(r.name).includes(t));
-          if (hit && hit.place_id) { ids[f.name] = hit.place_id; break; }
+          const m = pickMatch(cands, r => r.name, t);
+          if (m && m.hit.place_id) { ids[f.name] = m.hit.place_id; break; }
         } catch (e) {}
       }
     }
@@ -113,12 +125,11 @@ async function snapRank(start, baseUrl) {
       const j = await to(fetch(u).then(r => r.json()), 8500);
       const rs = (j && j.local_results) || [];
       const t = normName(f.target); let pos = null;
-      rs.forEach((r, i) => {
-        if (pos === null && r.title && normName(r.title).includes(t)) {
-          pos = i + 1;
-          if (!ids[f.name] && r.place_id) { ids[f.name] = r.place_id; idsChanged = true; }
-        }
-      });
+      const m = pickMatch(rs, r => r.title, t);
+      if (m) {
+        pos = m.idx + 1;
+        if (!ids[f.name] && m.hit.place_id) { ids[f.name] = m.hit.place_id; idsChanged = true; }
+      }
       snap[f.name] = pos;
     } catch (e) {}
   }));
