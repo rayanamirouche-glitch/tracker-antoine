@@ -19,7 +19,8 @@
     "city": "Thonon-les-Bains",
     "link": "https://maps.app.goo.gl/gB6g31f4rV8MPzR56",
     "obj": 20,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Atelier Maxime Père & Fils",
@@ -30,7 +31,8 @@
     "city": "Thonon-les-Bains",
     "link": "https://maps.app.goo.gl/FrjwecFjMsDJGpP79",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "AD Couvreur",
@@ -41,7 +43,8 @@
     "city": "Saint-Blaise",
     "link": "https://maps.app.goo.gl/PU2wT2nrpNM8st8e6",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Pro couvreur saint eusèbe",
@@ -52,7 +55,8 @@
     "city": "Saint-Eusèbe",
     "link": "https://maps.app.goo.gl/6tCacLqDwmfKsEYu9",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Chris toiture 74",
@@ -63,7 +67,8 @@
     "city": "Haute-Savoie",
     "link": "https://maps.app.goo.gl/wNUyEQMhhLU7Y2EM9",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Couvreur st félix pro fuite",
@@ -74,7 +79,8 @@
     "city": "Saint-Félix",
     "link": "https://maps.app.goo.gl/NsjHcZC3tDFUhcZX6",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Couvreur PR st ferreol",
@@ -85,7 +91,8 @@
     "city": "Saint-Ferréol",
     "link": "https://maps.app.goo.gl/KvnL7umtw44frbeX8",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Couvreur st Gervais les bains",
@@ -96,7 +103,8 @@
     "city": "Saint-Gervais",
     "link": "https://maps.app.goo.gl/CM1cdoYbjXJ94ga7A",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Couvreur st gingolph",
@@ -107,7 +115,8 @@
     "city": "Saint-Gingolph",
     "link": "https://maps.app.goo.gl/ADFZZpC8Cm5fRcQh7",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "Ets Maxime Couvreur",
@@ -118,7 +127,8 @@
     "city": "Haute-Savoie",
     "link": "https://maps.app.goo.gl/pvH2xUk12DaJUs6cA",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "type": "avis"
   },
   {
     "name": "I.D. Couverture 74 Couvreurs",
@@ -480,6 +490,39 @@
     "kw": "couvreur saint genis pouilly",
     "city": "Saint Genis Pouilly",
     "link": "https://maps.app.goo.gl/Q9rJmr5tF62WYiih9",
+    "region": "Var",
+    "obj": 10
+  },
+  {
+    "name": "MT Entreprise de couverture - Zingueur - Demoussage",
+    "q": "MT Entreprise de couverture - Zingueur - Demoussage",
+    "target": "mt entreprise de",
+    "ll": "46.020,6.621",
+    "kw": "couvreur magland",
+    "city": "Magland",
+    "link": "https://maps.app.goo.gl/7BQMzCs4cQcBvk3L8",
+    "region": "Var",
+    "obj": 20
+  },
+  {
+    "name": "Zingueur Etterbeek Étanchéité toiture",
+    "q": "Zingueur Etterbeek Étanchéité toiture",
+    "target": "zingueur etterbeek etancheite",
+    "ll": "50.833,4.395",
+    "kw": "toiturier etterbeek",
+    "city": "Etterbeek",
+    "link": "https://maps.app.goo.gl/jr1eGL8Z21wyJwbr8",
+    "region": "Var",
+    "obj": 30
+  },
+  {
+    "name": "Ferblantier Evere Gouttières zinc",
+    "q": "Ferblantier Evere Gouttières zinc",
+    "target": "ferblantier evere gouttieres",
+    "ll": "50.872,4.403",
+    "kw": "toiturier evere",
+    "city": "Evere",
+    "link": "https://maps.app.goo.gl/mvSq5U4DbX9nrukH6",
     "region": "Var",
     "obj": 10
   }
