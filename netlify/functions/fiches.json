@@ -18,9 +18,10 @@
     "kw": "couvreur thonon les bains",
     "city": "Thonon-les-Bains",
     "link": "https://maps.app.goo.gl/gB6g31f4rV8MPzR56",
-    "obj": 20,
+    "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "commande": 10
   },
   {
     "name": "Atelier Maxime Père & Fils",
@@ -541,9 +542,9 @@
     "city": "Thonon-les-Bains",
     "link": "https://maps.app.goo.gl/CZA5JyNrfyMiuqx47",
     "region": "Var",
-    "obj": 20,
+    "obj": 30,
     "type": "avis",
-    "commande": 20
+    "commande": 30
   },
   {
     "name": "Couvreur Valbonne Compagnon Jack",
@@ -570,5 +571,57 @@
     "obj": 10,
     "type": "avis",
     "commande": 10
+  },
+  {
+    "name": "Couvreur Saint-Laurent-Du-Var Expert Toiture 06",
+    "q": "Couvreur Saint-Laurent-Du-Var Expert Toiture 06",
+    "target": "couvreur saint-laurent-du-var expert",
+    "ll": "43.669,7.191",
+    "kw": "couvreur saint-laurent-du-var",
+    "city": "Saint-Laurent-du-Var",
+    "link": "https://maps.app.goo.gl/QdEzyUL2oPzPhJcC8",
+    "region": "Var",
+    "obj": 35,
+    "type": "avis",
+    "commande": 35
+  },
+  {
+    "name": "ND Toiture Beaulieu-sur-Mer",
+    "q": "ND Toiture Beaulieu-sur-Mer",
+    "target": "nd toiture beaulieu-sur-mer",
+    "ll": "43.709,7.334",
+    "kw": "couvreur beaulieu-sur-mer",
+    "city": "Beaulieu-sur-Mer",
+    "link": "https://maps.app.goo.gl/tknBekJczZe1WCDV9",
+    "region": "Var",
+    "obj": 30,
+    "type": "avis",
+    "commande": 30
+  },
+  {
+    "name": "Tuile Ardoise Pro Couvreur",
+    "q": "Tuile Ardoise Pro Couvreur",
+    "target": "tuile ardoise pro",
+    "ll": "43.885,7.361",
+    "kw": "couvreur lucéram",
+    "city": "Lucéram",
+    "link": "https://maps.app.goo.gl/Xv5ykAU9BNfTYpT88",
+    "region": "Var",
+    "obj": 15,
+    "type": "avis",
+    "commande": 15
+  },
+  {
+    "name": "Atelier Couvreur Gattieres",
+    "q": "Atelier Couvreur Gattieres",
+    "target": "atelier couvreur gattieres",
+    "ll": "43.761,7.178",
+    "kw": "couvreur gattières",
+    "city": "Gattières",
+    "link": "https://maps.app.goo.gl/j7caG5d6o9NxJp9K7",
+    "region": "Var",
+    "obj": 20,
+    "type": "avis",
+    "commande": 20
   }
 ]
