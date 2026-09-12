@@ -24,18 +24,6 @@
     "commande": 10
   },
   {
-    "name": "Atelier Maxime Père & Fils",
-    "q": "Atelier Maxime Père et Fils Couvreur Thonon-les-Bains",
-    "target": "atelier maxime",
-    "ll": "46.371,6.479",
-    "kw": "couvreur thonon les bains",
-    "city": "Thonon-les-Bains",
-    "link": "https://maps.app.goo.gl/FrjwecFjMsDJGpP79",
-    "obj": 10,
-    "region": "Haute-Savoie",
-    "type": "avis"
-  },
-  {
     "name": "AD Couvreur",
     "q": "AD Couvreur saint blaise",
     "target": "ad couvreur",
