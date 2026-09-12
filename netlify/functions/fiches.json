@@ -500,9 +500,11 @@
     "ll": "46.020,6.621",
     "kw": "couvreur magland",
     "city": "Magland",
-    "link": "https://maps.app.goo.gl/7BQMzCs4cQcBvk3L8",
+    "link": "https://maps.app.goo.gl/DHyYKbGPDS3t8EB28",
     "region": "Var",
-    "obj": 20
+    "obj": 20,
+    "type": "avis",
+    "commande": 20
   },
   {
     "name": "Zingueur Etterbeek Étanchéité toiture",
@@ -511,9 +513,11 @@
     "ll": "50.833,4.395",
     "kw": "toiturier etterbeek",
     "city": "Etterbeek",
-    "link": "https://maps.app.goo.gl/jr1eGL8Z21wyJwbr8",
+    "link": "https://maps.app.goo.gl/s2ggU1rZYupv5eRY8",
     "region": "Var",
-    "obj": 30
+    "obj": 30,
+    "type": "avis",
+    "commande": 30
   },
   {
     "name": "Ferblantier Evere Gouttières zinc",
@@ -522,8 +526,49 @@
     "ll": "50.872,4.403",
     "kw": "toiturier evere",
     "city": "Evere",
-    "link": "https://maps.app.goo.gl/mvSq5U4DbX9nrukH6",
+    "link": "https://maps.app.goo.gl/CCHMr128SbjhhuSWA",
     "region": "Var",
-    "obj": 10
+    "obj": 10,
+    "type": "avis",
+    "commande": 10
+  },
+  {
+    "name": "Atelier Maxime Père & Fils Couvreur Thonon-les-Bains",
+    "q": "Atelier Maxime Père & Fils Couvreur Thonon-les-Bains",
+    "target": "atelier maxime pere",
+    "ll": "46.373,6.478",
+    "kw": "couvreur thonon-les-bains",
+    "city": "Thonon-les-Bains",
+    "link": "https://maps.app.goo.gl/CZA5JyNrfyMiuqx47",
+    "region": "Var",
+    "obj": 20,
+    "type": "avis",
+    "commande": 20
+  },
+  {
+    "name": "Couvreur Valbonne Compagnon Jack",
+    "q": "Couvreur Valbonne Compagnon Jack",
+    "target": "couvreur valbonne compagnon",
+    "ll": "43.641,7.009",
+    "kw": "couvreur valbonne",
+    "city": "Valbonne",
+    "link": "https://maps.app.goo.gl/7FCV3ryqKA2iwYYB6",
+    "region": "Var",
+    "obj": 35,
+    "type": "avis",
+    "commande": 35
+  },
+  {
+    "name": "Artisan couvreur Ma Toiture Nette & Rénov 74",
+    "q": "Artisan couvreur Ma Toiture Nette & Rénov 74",
+    "target": "artisan couvreur ma",
+    "ll": "46.298,6.328",
+    "kw": "couvreur ballaison",
+    "city": "Ballaison",
+    "link": "https://maps.app.goo.gl/2qFKG2BGEWkueF7i9",
+    "region": "Var",
+    "obj": 10,
+    "type": "avis",
+    "commande": 10
   }
 ]
