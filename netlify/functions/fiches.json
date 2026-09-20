@@ -18,10 +18,10 @@
     "kw": "couvreur thonon les bains",
     "city": "Thonon-les-Bains",
     "link": "https://maps.app.goo.gl/gB6g31f4rV8MPzR56",
-    "obj": 10,
+    "obj": 25,
     "region": "Haute-Savoie",
     "type": "avis",
-    "commande": 10
+    "commande": 25
   },
   {
     "name": "AD Couvreur",
@@ -370,7 +370,9 @@
     "city": "Corsier",
     "link": "https://maps.app.goo.gl/cofuhUftGvxuAdkn9",
     "region": "Var",
-    "obj": 23
+    "obj": 12,
+    "commande": 12,
+    "livres": 5
   },
   {
     "name": "Toit'Expert ferblanterie",
@@ -381,7 +383,9 @@
     "city": "Puplinge",
     "link": "https://maps.app.goo.gl/TyxLMyWvYygXnugM9",
     "region": "Var",
-    "obj": 10
+    "obj": 10,
+    "commande": 10,
+    "livres": 8
   },
   {
     "name": "Entreprise BL Toiture Ferblanterie",
@@ -392,7 +396,9 @@
     "city": "Le Grand Saconnex",
     "link": "https://maps.app.goo.gl/f9DVKn58a6Qfu8E39",
     "region": "Var",
-    "obj": 11
+    "obj": 10,
+    "commande": 10,
+    "livres": 8
   },
   {
     "name": "Zingueurs du Bâtiment",
@@ -403,7 +409,9 @@
     "city": "Geneve",
     "link": "https://maps.app.goo.gl/6eRjTYtZUi3MYaSF7",
     "region": "Var",
-    "obj": 38
+    "obj": 20,
+    "commande": 20,
+    "livres": 8
   },
   {
     "name": "Toiture Bruxelles-Ville Isolation de toiture",
@@ -414,7 +422,9 @@
     "city": "Bruxelles",
     "link": "https://maps.app.goo.gl/eZgh8EHtnG4n5tFW7",
     "region": "Var",
-    "obj": 31
+    "obj": 40,
+    "commande": 40,
+    "livres": 6
   },
   {
     "name": "Zingueur Ardoises Ixelles",
@@ -425,7 +435,9 @@
     "city": "Bruxelles",
     "link": "https://maps.app.goo.gl/v1GjLwfkTtNc2wnJ7",
     "region": "Var",
-    "obj": 32
+    "obj": 20,
+    "commande": 20,
+    "livres": 2
   },
   {
     "name": "Couvreur Aubagne 13 devis gratuit",
@@ -436,7 +448,9 @@
     "city": "Aubagne",
     "link": "https://maps.app.goo.gl/MpBB7zYYLPx8cjmC6",
     "region": "Var",
-    "obj": 15
+    "obj": 15,
+    "commande": 15,
+    "livres": 4
   },
   {
     "name": "Couvreur Solliès-Pont Henry",
@@ -447,7 +461,9 @@
     "city": "Solliès-Pont",
     "link": "https://maps.app.goo.gl/udESbNcAyPgSvCVh9",
     "region": "Var",
-    "obj": 30
+    "obj": 30,
+    "commande": 30,
+    "livres": 4
   },
   {
     "name": "DM Expert en Toiture - Rénovation, Couvreur",
@@ -458,7 +474,9 @@
     "city": "La Valette-du-Var",
     "link": "https://maps.app.goo.gl/Vo3iQV4fQwUwM7oo9",
     "region": "Var",
-    "obj": 20
+    "obj": 20,
+    "commande": 20,
+    "livres": 4
   },
   {
     "name": "Toitures & Zingueries méditerranées",
@@ -469,7 +487,9 @@
     "city": "Péron",
     "link": "https://maps.app.goo.gl/TswkbfkiByQvhB1e7",
     "region": "Var",
-    "obj": 10
+    "obj": 10,
+    "commande": 10,
+    "livres": 4
   },
   {
     "name": "Entreprise A Z Couverture",
@@ -480,7 +500,9 @@
     "city": "Saint Genis Pouilly",
     "link": "https://maps.app.goo.gl/Q9rJmr5tF62WYiih9",
     "region": "Var",
-    "obj": 10
+    "obj": 10,
+    "commande": 10,
+    "livres": 4
   },
   {
     "name": "MT Entreprise de couverture - Zingueur - Demoussage",
@@ -493,7 +515,8 @@
     "region": "Var",
     "obj": 20,
     "type": "avis",
-    "commande": 20
+    "commande": 20,
+    "livres": 3
   },
   {
     "name": "Zingueur Etterbeek Étanchéité toiture",
@@ -519,7 +542,8 @@
     "region": "Var",
     "obj": 10,
     "type": "avis",
-    "commande": 10
+    "commande": 10,
+    "livres": 2
   },
   {
     "name": "Atelier Maxime Père & Fils Couvreur Thonon-les-Bains",
@@ -532,7 +556,8 @@
     "region": "Var",
     "obj": 30,
     "type": "avis",
-    "commande": 30
+    "commande": 30,
+    "livres": 3
   },
   {
     "name": "Couvreur Valbonne Compagnon Jack",
@@ -545,7 +570,8 @@
     "region": "Var",
     "obj": 35,
     "type": "avis",
-    "commande": 35
+    "commande": 35,
+    "livres": 2
   },
   {
     "name": "Artisan couvreur Ma Toiture Nette & Rénov 74",
@@ -558,7 +584,8 @@
     "region": "Var",
     "obj": 10,
     "type": "avis",
-    "commande": 10
+    "commande": 10,
+    "livres": 3
   },
   {
     "name": "Couvreur Saint-Laurent-Du-Var Expert Toiture 06",
@@ -607,6 +634,71 @@
     "kw": "couvreur gattières",
     "city": "Gattières",
     "link": "https://maps.app.goo.gl/j7caG5d6o9NxJp9K7",
+    "region": "Var",
+    "obj": 20,
+    "type": "avis",
+    "commande": 20
+  },
+  {
+    "name": "SOS TOITURE LE MUY",
+    "q": "SOS TOITURE LE MUY",
+    "target": "sos toiture le",
+    "ll": "43.471,6.566",
+    "kw": "couvreur le muy",
+    "city": "Le Muy",
+    "link": "https://maps.app.goo.gl/giwwPUg8rgAwQMFK7",
+    "region": "Var",
+    "obj": 20,
+    "type": "avis",
+    "commande": 20
+  },
+  {
+    "name": "NP Rénovation Couvreur : Expert couvreur Sciez - Réparation Démoussage Toiture",
+    "q": "NP Rénovation Couvreur : Expert couvreur Sciez - Réparation Démoussage Toiture",
+    "target": "np renovation couvreur",
+    "ll": "46.331,6.375",
+    "kw": "couvreur sciez",
+    "city": "Sciez",
+    "link": "https://maps.app.goo.gl/vs3KsWctaXRr8wCT8",
+    "region": "Var",
+    "obj": 15,
+    "type": "avis",
+    "commande": 15
+  },
+  {
+    "name": "Zingueur Wavre - Habillage de cheminée",
+    "q": "Zingueur Wavre - Habillage de cheminée",
+    "target": "zingueur wavre -",
+    "ll": "50.717,4.610",
+    "kw": "zingueur wavre",
+    "city": "Wavre",
+    "link": "https://maps.app.goo.gl/nTDNygYVNHkzRX61A",
+    "region": "Var",
+    "obj": 10,
+    "type": "avis",
+    "commande": 10
+  },
+  {
+    "name": "Toiture Rixensart - Réparation de gouttières",
+    "q": "Toiture Rixensart - Réparation de gouttières",
+    "target": "toiture rixensart -",
+    "ll": "50.712,4.522",
+    "kw": "toiturier rixensart",
+    "city": "Rixensart",
+    "link": "https://maps.app.goo.gl/yW1Xvp7pcSq22er66",
+    "region": "Var",
+    "obj": 10,
+    "type": "avis",
+    "commande": 10
+  },
+  {
+    "name": "Toiture Beersel - Réfection de toiture",
+    "q": "Toiture Beersel - Réfection de toiture",
+    "target": "toiture beersel -",
+    "ll": "50.748,4.307",
+    "kw": "toiturier beersel",
+    "city": "Beersel",
+    "link": "https://maps.app.goo.gl/4LqdWZ4QXXtMmgCr5",
     "region": "Var",
     "obj": 20,
     "type": "avis",
