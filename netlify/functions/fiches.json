@@ -689,5 +689,57 @@
     "obj": 20,
     "type": "avis",
     "commande": 20
+  },
+  {
+    "name": "Atelier MID Expert Toiture",
+    "q": "Atelier MID Expert Toiture",
+    "target": "atelier mid expert",
+    "ll": "43.369,6.222",
+    "kw": "couvreur flassans-sur-issole",
+    "city": "Flassans-sur-Issole",
+    "link": "https://maps.google.com/?cid=9904268108177633502",
+    "region": "Var",
+    "obj": 15,
+    "type": "avis",
+    "commande": 15
+  },
+  {
+    "name": "Atelier 06 - Expert Zingueur Couverture",
+    "q": "Atelier 06 - Expert Zingueur Couverture",
+    "target": "atelier 06 -",
+    "ll": "43.804,7.496",
+    "kw": "couvreur castellar",
+    "city": "Castellar",
+    "link": "https://maps.google.com/?cid=6417514385003366520",
+    "region": "Var",
+    "obj": 5,
+    "type": "avis",
+    "commande": 5
+  },
+  {
+    "name": "AB Toiture - Couvreur Loisin",
+    "q": "AB Toiture - Couvreur Loisin",
+    "target": "ab toiture -",
+    "ll": "46.278,6.313",
+    "kw": "couvreur loisin",
+    "city": "Loisin",
+    "link": "https://maps.google.com/?cid=16366670525160947882",
+    "region": "Var",
+    "obj": 10,
+    "type": "avis",
+    "commande": 10
+  },
+  {
+    "name": "L'artisan couvreur local Rénov 74",
+    "q": "L'artisan couvreur local Rénov 74",
+    "target": "l'artisan couvreur local",
+    "ll": "46.390,6.543",
+    "kw": "couvreur publier",
+    "city": "Publier",
+    "link": "https://maps.google.com/?cid=6569515796942258551",
+    "region": "Var",
+    "obj": 10,
+    "type": "avis",
+    "commande": 10
   }
 ]
