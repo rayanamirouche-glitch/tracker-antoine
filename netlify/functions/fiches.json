@@ -8,7 +8,9 @@
     "city": "Sciez",
     "link": "https://maps.app.goo.gl/W8rV5EKJv6cgFaNu5",
     "obj": 20,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "kg": "/g/11wppkrk5q",
+    "cid": "14348888960351637646"
   },
   {
     "name": "Thonon Couverture",
@@ -21,7 +23,9 @@
     "obj": 25,
     "region": "Haute-Savoie",
     "type": "avis",
-    "commande": 25
+    "commande": 25,
+    "kg": "/g/11kx72c98h",
+    "cid": "15268765478530866552"
   },
   {
     "name": "AD Couvreur",
@@ -33,7 +37,9 @@
     "link": "https://maps.app.goo.gl/PU2wT2nrpNM8st8e6",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11nt_bysr1",
+    "cid": "4614311005193994727"
   },
   {
     "name": "Pro couvreur saint eusèbe",
@@ -45,7 +51,9 @@
     "link": "https://maps.app.goo.gl/6tCacLqDwmfKsEYu9",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11nt_bzgc8",
+    "cid": "2575517005381416739"
   },
   {
     "name": "Chris toiture 74",
@@ -57,7 +65,9 @@
     "link": "https://maps.app.goo.gl/wNUyEQMhhLU7Y2EM9",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11nt_c3t39",
+    "cid": "13224070831969430740"
   },
   {
     "name": "Couvreur st félix pro fuite",
@@ -69,7 +79,9 @@
     "link": "https://maps.app.goo.gl/NsjHcZC3tDFUhcZX6",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11nt_byntr",
+    "cid": "641936565725497427"
   },
   {
     "name": "Couvreur PR st ferreol",
@@ -81,7 +93,9 @@
     "link": "https://maps.app.goo.gl/KvnL7umtw44frbeX8",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11nt_b4wh6",
+    "cid": "17066321955912139387"
   },
   {
     "name": "Couvreur st Gervais les bains",
@@ -93,7 +107,9 @@
     "link": "https://maps.app.goo.gl/CM1cdoYbjXJ94ga7A",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11zwmzw63b",
+    "cid": "13138410582226391761"
   },
   {
     "name": "Couvreur st gingolph",
@@ -105,7 +121,9 @@
     "link": "https://maps.app.goo.gl/ADFZZpC8Cm5fRcQh7",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11nt_c27_f",
+    "cid": "6197632410518497450"
   },
   {
     "name": "Ets Maxime Couvreur",
@@ -117,7 +135,9 @@
     "link": "https://maps.app.goo.gl/pvH2xUk12DaJUs6cA",
     "obj": 10,
     "region": "Haute-Savoie",
-    "type": "avis"
+    "type": "avis",
+    "kg": "/g/11vc70dzfx",
+    "cid": "13198757466093961583"
   },
   {
     "name": "I.D. Couverture 74 Couvreurs",
@@ -128,7 +148,9 @@
     "city": "Haute-Savoie",
     "link": "https://maps.app.goo.gl/nN5uydDHwRFjox1a8",
     "obj": 5,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "kg": "/g/11m7841b16",
+    "cid": "16759137829397853670"
   },
   {
     "name": "Toit de Qualité",
@@ -139,7 +161,9 @@
     "city": "Évian",
     "link": "https://maps.app.goo.gl/inQMYLVB34zKd5XW9",
     "obj": 5,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "kg": "/g/11vzy5dn70",
+    "cid": "356107170490066125"
   },
   {
     "name": "MG Le Bon Couvreur",
@@ -150,7 +174,9 @@
     "city": "Haute-Savoie",
     "link": "https://maps.app.goo.gl/c567da2VKCAK6xei6",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "kg": "/g/11v_4ss3dw",
+    "cid": "4391235534474639306"
   },
   {
     "name": "Atelier PF Les Toitures de Saint-Tropez",
@@ -161,7 +187,9 @@
     "city": "Saint-Tropez",
     "link": "https://maps.app.goo.gl/eshouz8WLQwgS9qk9",
     "obj": 20,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11w4qb1jxv",
+    "cid": "6526104549925980414"
   },
   {
     "name": "Toiture Rocbaron Couvreur",
@@ -172,7 +200,9 @@
     "city": "Rocbaron",
     "link": "https://maps.app.goo.gl/hunZVv8QMKF6aAcz5",
     "obj": 20,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11v_2nwzky",
+    "cid": "16577615571094507004"
   },
   {
     "name": "Couvreur Brignoles Expertises",
@@ -183,7 +213,9 @@
     "city": "Brignoles",
     "link": "https://maps.app.goo.gl/ENbtf9pGypR27SfeA",
     "obj": 20,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11xs5xfyt1",
+    "cid": "9373208594415952712"
   },
   {
     "name": "JD Couvreur",
@@ -194,7 +226,9 @@
     "city": "Var",
     "link": "https://maps.app.goo.gl/qKxxSoqczXtMLmk77",
     "obj": 15,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11vlt1npfj",
+    "cid": "14168683394422201200"
   },
   {
     "name": "Les Couvreurs Du Beausset Fils",
@@ -205,7 +239,9 @@
     "city": "Le Beausset",
     "link": "https://maps.app.goo.gl/r1S7p5XdzZgo2Bna6",
     "obj": 30,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11w1qpskrx",
+    "cid": "6012856194780930378"
   },
   {
     "name": "Couvreur Paul Étanchéité",
@@ -216,7 +252,9 @@
     "city": "Forcalqueiret",
     "link": "https://maps.app.goo.gl/JnAo3unzqphQTSGy9",
     "obj": 10,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11m6n85d_2",
+    "cid": "2215223232156274808"
   },
   {
     "name": "Entreprise Fab Toiture",
@@ -227,7 +265,9 @@
     "city": "Le Tignet",
     "link": "https://maps.app.goo.gl/ZArdTzwixLAWXkYT9",
     "obj": 10,
-    "region": "06"
+    "region": "06",
+    "kg": "/g/11v_1_gdvp",
+    "cid": "14667017629189471507"
   },
   {
     "name": "Spécialiste Toiture Charpente",
@@ -238,7 +278,9 @@
     "city": "Montauroux",
     "link": "https://maps.app.goo.gl/qpGeXdVtGfSH9fwj7",
     "obj": 15,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11w1dt3sx1",
+    "cid": "10385203036711837057"
   },
   {
     "name": "Entreprise De Toiture Et Charpente",
@@ -249,7 +291,9 @@
     "city": "Le Bar-sur-Loup",
     "link": "https://maps.app.goo.gl/4dKZmf7ePjZrPhfi9",
     "obj": 15,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11w3t6m1lf",
+    "cid": "6201131727386150791"
   },
   {
     "name": "SOS Toiture La Roquette-Sur-Siagne",
@@ -260,7 +304,9 @@
     "city": "La Roquette-sur-Siagne",
     "link": "https://maps.app.goo.gl/AUDJDc4JthhHiTjUA",
     "obj": 20,
-    "region": "06"
+    "region": "06",
+    "kg": "/g/11h6yrlbtw",
+    "cid": "14220675907556808023"
   },
   {
     "name": "Couvreur Juan-les-pins , Couvreur Antibes , Couvreur golf juan 06",
@@ -271,7 +317,9 @@
     "city": "Antibes",
     "link": "https://maps.app.goo.gl/mjivCEdmwNnj6fw39",
     "obj": 70,
-    "region": "06"
+    "region": "06",
+    "kg": "/g/11j7ywt4k1",
+    "cid": "1452429354792663250"
   },
   {
     "name": "Couverture Carces Pro Etanchéité",
@@ -282,7 +330,9 @@
     "city": "Carcès",
     "link": "https://maps.app.goo.gl/5NmE1uJ8tzmhGZxx5",
     "obj": 30,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11z8410bnz",
+    "cid": "7931115958725626244"
   },
   {
     "name": "Toitures Cie Couvreur Pro",
@@ -293,7 +343,9 @@
     "city": "Peymeinade",
     "link": "https://maps.app.goo.gl/NKfan3YGCSGELoU18",
     "obj": 15,
-    "region": "06"
+    "region": "06",
+    "kg": "/g/11y5jlkthk",
+    "cid": "5653807900976532051"
   },
   {
     "name": "Entreprise de couverture Mons",
@@ -304,7 +356,9 @@
     "city": "Mons (83)",
     "link": "https://maps.app.goo.gl/3QoQaJyqRybsjhnL6",
     "obj": 30,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11w2fnh8sm",
+    "cid": "11400018551094859374"
   },
   {
     "name": "Couvreur seillans GY Toiture",
@@ -315,7 +369,9 @@
     "city": "Seillans",
     "link": "https://maps.app.goo.gl/q1XqzbwXj8JQY6MW9",
     "obj": 20,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/1vb9g4f_",
+    "cid": "11988871844225909901"
   },
   {
     "name": "Couvreur Les Adrets-de-l'Estérel Artisan Jean",
@@ -326,7 +382,9 @@
     "city": "Les Adrets-de-l'Estérel",
     "link": "https://maps.app.goo.gl/MctmWweeoQjXLLLM8",
     "obj": 15,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11w1ymykqx",
+    "cid": "7551917570835374919"
   },
   {
     "name": "Proximité Couvreur Nans les Pins",
@@ -337,7 +395,9 @@
     "city": "Nans-les-Pins",
     "link": "https://maps.app.goo.gl/BJByK5pg569zP7tM6",
     "obj": 20,
-    "region": "Var"
+    "region": "Var",
+    "kg": "/g/11m5_tx45q",
+    "cid": "1979778380927147122"
   },
   {
     "name": "Les Expert Du toit",
@@ -348,7 +408,9 @@
     "city": "Tourrettes-sur-Loup",
     "link": "https://maps.app.goo.gl/DCQ4EyPKmhWkDAhJA",
     "obj": 20,
-    "region": "06"
+    "region": "06",
+    "kg": "/g/11w3tf7pdx",
+    "cid": "12920937992408393071"
   },
   {
     "name": "Couvreur et Bardage Thonon",
@@ -359,7 +421,9 @@
     "city": "Thonon-les-Bains",
     "link": "https://maps.app.goo.gl/Xgt8Ka9973yJzR6v6",
     "obj": 10,
-    "region": "Haute-Savoie"
+    "region": "Haute-Savoie",
+    "kg": "/g/11yb8gwp6_",
+    "cid": "8026324459451821612"
   },
   {
     "name": "RG Pro Toiture Ferblanterie & Fils",
@@ -372,7 +436,9 @@
     "region": "Genève",
     "obj": 12,
     "commande": 12,
-    "livres": 5
+    "livres": 5,
+    "kg": "/g/11y5sqwhdz",
+    "cid": "2550372461222633029"
   },
   {
     "name": "Toit'Expert ferblanterie",
@@ -385,7 +451,9 @@
     "region": "Genève",
     "obj": 10,
     "commande": 10,
-    "livres": 8
+    "livres": 8,
+    "kg": "/g/11w3y16h_r",
+    "cid": "12005589347818912044"
   },
   {
     "name": "Entreprise BL Toiture Ferblanterie",
@@ -398,7 +466,9 @@
     "region": "Genève",
     "obj": 10,
     "commande": 10,
-    "livres": 8
+    "livres": 8,
+    "kg": "/g/11y5z549xf",
+    "cid": "3370396120998241231"
   },
   {
     "name": "Zingueurs du Bâtiment",
@@ -411,7 +481,9 @@
     "region": "Genève",
     "obj": 20,
     "commande": 20,
-    "livres": 8
+    "livres": 8,
+    "kg": "/g/11vzlvz6j8",
+    "cid": "17495864888893788526"
   },
   {
     "name": "Toiture Bruxelles-Ville Isolation de toiture",
@@ -424,7 +496,9 @@
     "region": "Belgique",
     "obj": 40,
     "commande": 40,
-    "livres": 6
+    "livres": 6,
+    "kg": "/g/11zc_59kn0",
+    "cid": "14800730183441427504"
   },
   {
     "name": "Zingueur Ardoises Ixelles",
@@ -437,7 +511,9 @@
     "region": "Belgique",
     "obj": 20,
     "commande": 20,
-    "livres": 2
+    "livres": 2,
+    "kg": "/g/11zd3rrw44",
+    "cid": "14296448687685831989"
   },
   {
     "name": "Couvreur Aubagne 13 devis gratuit",
@@ -450,7 +526,9 @@
     "region": "Bouches-du-Rhône",
     "obj": 15,
     "commande": 15,
-    "livres": 4
+    "livres": 4,
+    "kg": "/g/11vhrrwt64",
+    "cid": "4545827094668297418"
   },
   {
     "name": "Couvreur Solliès-Pont Henry",
@@ -463,7 +541,9 @@
     "region": "Var",
     "obj": 30,
     "commande": 30,
-    "livres": 4
+    "livres": 4,
+    "kg": "/g/1tf7jrs2",
+    "cid": "1220660824331867945"
   },
   {
     "name": "DM Expert en Toiture - Rénovation, Couvreur",
@@ -476,7 +556,9 @@
     "region": "Var",
     "obj": 20,
     "commande": 20,
-    "livres": 4
+    "livres": 4,
+    "kg": "/g/11vx0j8qbs",
+    "cid": "12965463370238315924"
   },
   {
     "name": "Toitures & Zingueries méditerranées",
@@ -489,7 +571,9 @@
     "region": "Ain",
     "obj": 10,
     "commande": 10,
-    "livres": 4
+    "livres": 4,
+    "kg": "/g/11w3x27v3q",
+    "cid": "2838443090003273769"
   },
   {
     "name": "Entreprise A Z Couverture",
@@ -502,7 +586,9 @@
     "region": "Ain",
     "obj": 10,
     "commande": 10,
-    "livres": 4
+    "livres": 4,
+    "kg": "/g/11vzgmkhkt",
+    "cid": "7831626044891862472"
   },
   {
     "name": "MT Entreprise de couverture - Zingueur - Demoussage",
@@ -516,7 +602,9 @@
     "obj": 20,
     "type": "avis",
     "commande": 20,
-    "livres": 3
+    "livres": 3,
+    "kg": "/g/11vwypshx8",
+    "cid": "952140487214270624"
   },
   {
     "name": "Zingueur Etterbeek Étanchéité toiture",
@@ -529,7 +617,9 @@
     "region": "Belgique",
     "obj": 30,
     "type": "avis",
-    "commande": 30
+    "commande": 30,
+    "kg": "/g/11zc_5d601",
+    "cid": "10460664728514812595"
   },
   {
     "name": "Ferblantier Evere Gouttières zinc",
@@ -543,7 +633,9 @@
     "obj": 10,
     "type": "avis",
     "commande": 10,
-    "livres": 2
+    "livres": 2,
+    "kg": "/g/11zgy99sfz",
+    "cid": "8515476379628148854"
   },
   {
     "name": "Atelier Maxime Père & Fils Couvreur Thonon-les-Bains",
@@ -557,7 +649,9 @@
     "obj": 30,
     "type": "avis",
     "commande": 30,
-    "livres": 3
+    "livres": 3,
+    "kg": "/g/11vt6x0v3z",
+    "cid": "12866534822623139507"
   },
   {
     "name": "Artisan couvreur Ma Toiture Nette & Rénov 74",
@@ -571,7 +665,9 @@
     "obj": 10,
     "type": "avis",
     "commande": 10,
-    "livres": 3
+    "livres": 3,
+    "kg": "/g/11zdt6klvr",
+    "cid": "3788770206886312609"
   },
   {
     "name": "Couvreur Saint-Laurent-Du-Var Expert Toiture 06",
@@ -584,7 +680,9 @@
     "region": "06",
     "obj": 35,
     "type": "avis",
-    "commande": 35
+    "commande": 35,
+    "kg": "/g/11x6ywwqy1",
+    "cid": "14842922815507375965"
   },
   {
     "name": "ND Toiture Beaulieu-sur-Mer",
@@ -597,7 +695,9 @@
     "region": "06",
     "obj": 30,
     "type": "avis",
-    "commande": 30
+    "commande": 30,
+    "kg": "/g/11w2v_x8tr",
+    "cid": "4099178155685945367"
   },
   {
     "name": "Tuile Ardoise Pro Couvreur",
@@ -610,7 +710,9 @@
     "region": "06",
     "obj": 15,
     "type": "avis",
-    "commande": 15
+    "commande": 15,
+    "kg": "/g/11ltm9992w",
+    "cid": "15295935913654578442"
   },
   {
     "name": "Atelier Couvreur Gattieres",
@@ -623,7 +725,9 @@
     "region": "06",
     "obj": 20,
     "type": "avis",
-    "commande": 20
+    "commande": 20,
+    "kg": "/g/11y6qzdh0y",
+    "cid": "17419549194580139822"
   },
   {
     "name": "SOS TOITURE LE MUY",
@@ -636,7 +740,9 @@
     "region": "Var",
     "obj": 20,
     "type": "avis",
-    "commande": 20
+    "commande": 20,
+    "kg": "/g/11nn71pd40",
+    "cid": "13598690472045573599"
   },
   {
     "name": "NP Rénovation Couvreur : Expert couvreur Sciez - Réparation Démoussage Toiture",
@@ -649,7 +755,9 @@
     "region": "Haute-Savoie",
     "obj": 15,
     "type": "avis",
-    "commande": 15
+    "commande": 15,
+    "kg": "/g/11vp_dm51n",
+    "cid": "645806127170478760"
   },
   {
     "name": "Zingueur Wavre - Habillage de cheminée",
@@ -662,7 +770,9 @@
     "region": "Belgique",
     "obj": 10,
     "type": "avis",
-    "commande": 10
+    "commande": 10,
+    "kg": "/g/11zh1zm2lf",
+    "cid": "10344372746084635788"
   },
   {
     "name": "Toiture Rixensart - Réparation de gouttières",
@@ -675,7 +785,9 @@
     "region": "Belgique",
     "obj": 10,
     "type": "avis",
-    "commande": 10
+    "commande": 10,
+    "kg": "/g/11zh1z97js",
+    "cid": "14532513315777247167"
   },
   {
     "name": "Toiture Beersel - Réfection de toiture",
@@ -688,7 +800,9 @@
     "region": "Belgique",
     "obj": 20,
     "type": "avis",
-    "commande": 20
+    "commande": 20,
+    "kg": "/g/11zd3qbzhw",
+    "cid": "17506739429243280478"
   },
   {
     "name": "Atelier MID Expert Toiture",
@@ -701,7 +815,9 @@
     "region": "Var",
     "obj": 15,
     "type": "avis",
-    "commande": 15
+    "commande": 15,
+    "kg": "/g/11w9rbvjnm",
+    "cid": "9904268108177633502"
   },
   {
     "name": "Atelier 06 - Expert Zingueur Couverture",
@@ -714,7 +830,9 @@
     "region": "Var",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11wj2t44h0",
+    "cid": "6417514385003366520"
   },
   {
     "name": "AB Toiture - Couvreur Loisin",
@@ -727,7 +845,9 @@
     "region": "Var",
     "obj": 10,
     "type": "avis",
-    "commande": 10
+    "commande": 10,
+    "kg": "/g/11vw_rb9p9",
+    "cid": "16366670525160947882"
   },
   {
     "name": "L'artisan couvreur local Rénov 74",
@@ -740,7 +860,9 @@
     "region": "Haute-Savoie",
     "obj": 10,
     "type": "avis",
-    "commande": 10
+    "commande": 10,
+    "kg": "/g/11zx17wlvx",
+    "cid": "6569515796942258551"
   },
   {
     "name": "L'entreprise de BTP & Couverture Rénov' 74",
@@ -753,7 +875,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvvp_x44",
+    "cid": "1358100035818695832"
   },
   {
     "name": "Couvreur Expert Pro",
@@ -766,7 +890,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zxdlvsw5",
+    "cid": "15594435898025639537"
   },
   {
     "name": "Ma Toiture Rénov' & Habitat",
@@ -779,7 +905,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvt8xwvs",
+    "cid": "15736541452082696863"
   },
   {
     "name": "Société BTP Ma Toiture Neuve Clean Rénov'",
@@ -792,7 +920,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zfj9dwr_",
+    "cid": "2508686367100851853"
   },
   {
     "name": "ETS locale - Ma Toiture Clean 74",
@@ -805,7 +935,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvt5vlkn",
+    "cid": "13199837778244774923"
   },
   {
     "name": "Artisan local Nouvel Habitat Couverture 74",
@@ -818,7 +950,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zfhsrp8l",
+    "cid": "3421654243005576252"
   },
   {
     "name": "Société Neuf Toit Rénov",
@@ -831,7 +965,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvt3n_fy",
+    "cid": "10143145776304549769"
   },
   {
     "name": "L'artisan et La Toiture Clean 74",
@@ -844,7 +980,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zfjnd4v2",
+    "cid": "13079673196025660298"
   },
   {
     "name": "Societe locale BTP Habitat & Couverture 74",
@@ -857,7 +995,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zfj4nz6b",
+    "cid": "14996299700995858954"
   },
   {
     "name": "Artisan Expert Pro",
@@ -870,7 +1010,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zxf234b9",
+    "cid": "16441906174048188414"
   },
   {
     "name": "Couverture et Rénov' Pro' 74",
@@ -883,7 +1025,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zfk639yb",
+    "cid": "6903182188404618530"
   },
   {
     "name": "Expert Toit' & Renov' ETS",
@@ -896,7 +1040,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvtjlz10",
+    "cid": "18214549021448881189"
   },
   {
     "name": "Toiture Neuve & Mon Habitat ETS",
@@ -909,7 +1055,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx5bnjg7",
+    "cid": "11723636364752788134"
   },
   {
     "name": "ETS Une Toiture Net' Rénov & Habitat",
@@ -922,7 +1070,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvjg466l",
+    "cid": "861636275041426337"
   },
   {
     "name": "Artisan local Ma Toiture Nette & Rénovée Habitat",
@@ -935,7 +1085,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx43c16q",
+    "cid": "12920186529119143343"
   },
   {
     "name": "Couvreur exprt local Rénov 74",
@@ -948,7 +1100,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx3b84m1",
+    "cid": "11507980567859375620"
   },
   {
     "name": "Societe Locale d'habitat & Toiture Officielle",
@@ -961,7 +1115,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvgvy4tm",
+    "cid": "13265130430469667269"
   },
   {
     "name": "Couvreur Expert Toit & Rénovation 74",
@@ -974,7 +1130,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx2q4qp8",
+    "cid": "1344257692689078335"
   },
   {
     "name": "Société de couverture et BTP rénov locale",
@@ -987,7 +1145,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zf5lqr2p",
+    "cid": "12248427254130042817"
   },
   {
     "name": "Entreprise Toiture & Habitat locale",
@@ -1000,7 +1160,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zf5lshtb",
+    "cid": "9703601541771107689"
   },
   {
     "name": "ETS locale Artisan Couvreur & Rénov",
@@ -1013,7 +1175,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx1qtyn5",
+    "cid": "17562830015764755880"
   },
   {
     "name": "Le couvreur Net' Pro Rénov' 74",
@@ -1026,7 +1190,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvfpsgg9",
+    "cid": "16280400717947237872"
   },
   {
     "name": "ETS Artisan couvreur & habitat",
@@ -1039,7 +1205,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvfnz1mm",
+    "cid": "7230041044917685806"
   },
   {
     "name": "Société d'expertise en couverture",
@@ -1052,7 +1220,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx1jlfb0",
+    "cid": "14788195730670058731"
   },
   {
     "name": "Expert Couvreur Toit' Rénov' 74",
@@ -1065,7 +1235,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx181h0y",
+    "cid": "3391356849348750403"
   },
   {
     "name": "Société locale Habitat & Rénov",
@@ -1078,7 +1250,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvf96hlx",
+    "cid": "7219509054253136915"
   },
   {
     "name": "Artisan couvreur et habitat rénov 76",
@@ -1091,7 +1265,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvfd88kw",
+    "cid": "8325093867810901373"
   },
   {
     "name": "Société de Couverture locale 74",
@@ -1104,7 +1280,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvfpy9v0",
+    "cid": "4288156952387155087"
   },
   {
     "name": "Artisan expert local Rénov Toiture",
@@ -1117,7 +1295,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zf4hx6vv",
+    "cid": "17376630227524587172"
   },
   {
     "name": "Le couvreur local Net' Rénov 74",
@@ -1130,7 +1310,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zx1qyjy4",
+    "cid": "4748755615204888202"
   },
   {
     "name": "Artisan local - Toiture et Rénov' Neuve 73",
@@ -1143,7 +1325,9 @@
     "region": "Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvvpq_gl",
+    "cid": "3483928391003619463"
   },
   {
     "name": "Entreprise experte en couverture BTP 74",
@@ -1156,7 +1340,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zxfrqg17",
+    "cid": "6332454177705587576"
   },
   {
     "name": "Artisan couvreur charpentier habitat 74",
@@ -1169,7 +1355,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zxf88p06",
+    "cid": "12256053282483956107"
   },
   {
     "name": "ETS - Ma Nouvelle Toiture 74",
@@ -1182,7 +1370,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zxf8p4f0",
+    "cid": "15108052791045474"
   },
   {
     "name": "Couvreur local My Toiture 74",
@@ -1195,7 +1385,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvt5yfb1",
+    "cid": "10376168769636377965"
   },
   {
     "name": "Artisan Nouvelle Neuve Toiture & Rénov",
@@ -1208,7 +1400,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zfhskdm5",
+    "cid": "12649962945717636535"
   },
   {
     "name": "Entreprise Rénov Net' Clean 74",
@@ -1221,7 +1415,9 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11zxdfxst8",
+    "cid": "4528748477088218758"
   },
   {
     "name": "New Clean Rénov 74",
@@ -1234,6 +1430,8 @@
     "region": "Haute-Savoie",
     "obj": 5,
     "type": "avis",
-    "commande": 5
+    "commande": 5,
+    "kg": "/g/11nvsdddyx",
+    "cid": "2095526535151626306"
   }
 ]
